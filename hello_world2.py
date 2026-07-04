@@ -6,4 +6,4 @@
 # Example:
 for i in range(5):
     print("Hoho")
-    print("Hello World.")
+    print("Hello Capo Verde.")
