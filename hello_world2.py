@@ -4,6 +4,6 @@
 # It allows you to execute a block of code multiple times, once for each item in the sequence.
 #
 # Example:
-for i in range(3):
+for i in range(5):
     print("Hoho")
     print("Hello World.")
